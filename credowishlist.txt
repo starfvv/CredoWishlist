@@ -1,5 +1,5 @@
-title:Una lista de deseos de armas.
-description:Creado por gente que no pone manitas a todo.
+title:Lista de deseos del arsenal VALIENTE.
+description:Creado por gente que no le pone manitas arriba a todo.
 
 // -- starfv#7947 --------------------------------------------------------------------------------
 
@@ -29,15 +29,15 @@ dimwishlist:item=243425374&perks=3666208348,4104185692,3708227201
 
 // Golpe de medianoche
 //notes:starfv#7947: Cañón de mano cinético muy divertido y con mucha variedad en la 4ª columna. Parece que va a ser muy útil con las subclases prismáticas.
-dimwishlist:item=2763843898&perks=1482024992,1087426260,3038247973,3891536761
-dimwishlist:item=2763843898&perks=1482024992,1087426260,3038247973,4104185692
-dimwishlist:item=2763843898&perks=1482024992,1087426260,3038247973,4049631843
+dimwishlist:item=2763843898&perks=3038247973,3891536761
+dimwishlist:item=2763843898&perks=3038247973,4104185692
+dimwishlist:item=2763843898&perks=3038247973,4049631843
 
 // Golpe de medianoche
 //notes:starfv#7947: Cañón de mano cinético muy divertido y con mucha variedad en la 4ª columna. Parece que va a ser muy útil con las subclases prismáticas.
-dimwishlist:item=2499720827&perks=1482024992,1087426260,3038247973,3891536761
-dimwishlist:item=2499720827&perks=1482024992,1087426260,3038247973,4104185692
-dimwishlist:item=2499720827&perks=1482024992,1087426260,3038247973,4049631843
+dimwishlist:item=2499720827&perks=3038247973,3891536761
+dimwishlist:item=2499720827&perks=3038247973,4104185692
+dimwishlist:item=2499720827&perks=3038247973,4049631843
 
 // La Cima
 //notes:starfv#7947: No os va a cambiar la vida, pero siempre viene bien tener un pepinazo guardado para algún bicho duro. Contra toda lógica, hay que buscar perks que reduzcan el radio de explosión.
@@ -55,38 +55,41 @@ dimwishlist:item=4043921923&perks=981914802,3492396210,1556840489,4104185692
 
 // Horno de Fundición
 //notes:starfv#7947: El mejor pulsos cinético del juego. Con los buffs a los pulsos en la Forma Final, esta bestia debería convertirse en tu fiel compañera.
-dimwishlist:item=2372514508&perks=1482024992,1087426260,3891536761,4049631843
-dimwishlist:item=2372514508&perks=1482024992,1087426260,3891536761,4104185692
+dimwishlist:item=2372514508&perks=3891536761,4049631843
+dimwishlist:item=2372514508&perks=3891536761,4104185692
 
 // Horno de Fundición
 //notes:starfv#7947: El mejor pulsos cinético del juego. Con los buffs a los pulsos en la Forma Final, esta bestia debería convertirse en tu fiel compañera.
-dimwishlist:item=2533990645&perks=1482024992,1087426260,3891536761,4049631843
-dimwishlist:item=2533990645&perks=1482024992,1087426260,3891536761,4104185692
+dimwishlist:item=2533990645&perks=3891536761,4049631843
+dimwishlist:item=2533990645&perks=3891536761,4104185692
 
 // Aullido de Luna
 //notes:starfv#7947: Un cañón de mano muy divertido, algo lento de recarga y perfecto para builds con ascuas de benevolencia. Recomendable alimentador armónico (solar).
-dimwishlist:item=2763843899&perks=1482024992,3230963543,3017780555,4293542123
+dimwishlist:item=2763843899&perks=3017780555,4293542123
 
 // Aullido de Luna
 //notes:starfv#7947: Un cañón de mano muy divertido, algo lento de recarga y perfecto para builds con ascuas de benevolencia. Recomendable alimentador armónico (solar).
-dimwishlist:item=3757612024&perks=1482024992,3230963543,3017780555,4293542123
+dimwishlist:item=3757612024&perks=3017780555,4293542123
 
 // Cabeza de Martillo
 //notes:starfv#7947: De las mejores ametralladoras del juego, pero si tienes ya conmemoración no merece mucho la pena.
-dimwishlist:item=1896309757&perks=1482024992,2420895100,968510818,557221067
-dimwishlist:item=1896309757&perks=1482024992,2420895100,3418782618,557221067
+dimwishlist:item=1896309757&perks=968510818,557221067
+dimwishlist:item=1896309757&perks=968510818,557221067
+dimwishlist:item=1896309757&perks=3418782618,557221067
+dimwishlist:item=1896309757&perks=3418782618,557221067
 
 //notes:starfv#7947: Si alguna vez te has querido sentir como Rambo, esta es tu arma. Doble perk de daño, eso no se ve todos los días, eso sí, no te quejes cuando te quedes sin balas.
-dimwishlist:item=1896309757&perks=1482024992,2420895100,3425386926,557221067
+dimwishlist:item=1896309757&perks=3425386926,557221067
 
 // Cabeza de Martillo
 //notes:starfv#7947: De las mejores ametralladoras del juego, pero si tienes ya conmemoración no merece mucho la pena.
-dimwishlist:item=211732170&perks=1482024992,2420895100,968510818,557221067
-dimwishlist:item=211732170&perks=1482024992,2420895100,3418782618,557221067
+dimwishlist:item=211732170&perks=968510818,557221067
+dimwishlist:item=211732170&perks=968510818,557221067
+dimwishlist:item=211732170&perks=3418782618,557221067
+dimwishlist:item=211732170&perks=3418782618,557221067
 
 //notes:starfv#7947: Si alguna vez te has querido sentir como Rambo, esta es tu arma. Doble perk de daño, eso no se ve todos los días, eso sí, no te quejes cuando te quedes sin balas.
-dimwishlist:item=211732170&perks=1482024992,2420895100,3425386926,557221067
-
+dimwishlist:item=211732170&perks=3425386926,557221067
 
 
 
