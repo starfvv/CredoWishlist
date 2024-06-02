@@ -6,6 +6,14 @@ description:Created by Credo Calamitoso.
 
 // Tránsito Extremo
 //notes:starfv#7947: El mejor lanzagranadas de todo el juego, empatado con el Catafracto. 
-dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919,2489430594
+dimwishlist:item=568611923&perks=3525010810,332133599,968510818,3078487919,2489430594
 
-//
+// Tránsito Extremo (vehículos)
+//notes:starfv#7947: Otro roll de este arma, pero centrado en acabar con vehículos. Si te apetece darle cera al robot de Hora Cero, este lanzagranadas es tu fiel amigo. 
+dimwishlist:item=568611923&perks=3525010810,3373736292,968510818,3993379141,2489430594
+
+// Tránsito extremo brilli brilli
+//notes:starfv#7947: El mejor lanzagranadas de todo el juego, ahora sí, con dobles perks es inmejorable.
+dimwishlist:item=2228325504&perks=3525010810,3301904089,968510818,3078487919,2489430594
+dimwishlist:item=2228325504&perks=3525010810,332133599,3751912585,3078487919,2489430594
