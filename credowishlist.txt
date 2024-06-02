@@ -44,6 +44,15 @@ dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
 //notes:starfv#7947: No os va a cambiar la vida, pero siempre viene bien tener un pepinazo guardado para algún bicho duro. Contra toda lógica, hay que buscar perks que reduzcan el radio de explosión.
 dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294
 
+// Horno de Fundición
+//notes:starfv#7947: El mejor pulsos cinético del juego. Con los buffs a los pulsos en la Forma Final, esta bestia debería convertirse en tu fiel compañera.
+dimwishlist:item=2372514508&perks=1482024992,1087426260,3891536761,4049631843
+
+
+
+
+
+
 
 
 
