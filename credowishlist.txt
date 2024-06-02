@@ -55,6 +55,9 @@ dimwishlist:item=2533990645&perks=1482024992,1087426260,3891536761,4049631843
 //notes:starfv#7947: Un cañón de mano muy divertido, algo lento de recarga y perfecto para builds con ascuas de benevolencia. Recomendable alimentador armónico (solar).
 dimwishlist:item=2763843899&perks=1482024992,3230963543,3017780555,4293542123
 
+// Aullido de Luna
+//notes:starfv#7947: Un cañón de mano muy divertido, algo lento de recarga y perfecto para builds con ascuas de benevolencia. Recomendable alimentador armónico (solar).
+dimwishlist:item=3757612024&perks=1482024992,3230963543,3017780555,4293542123
 
 
 
