@@ -65,6 +65,10 @@ dimwishlist:item=3757612024&perks=1482024992,3230963543,3017780555,4293542123
 //notes:starfv#7947: De las mejores ametralladoras del juego, pero si tienes ya conmemoración no merece mucho la pena.
 dimwishlist:item=1896309757&perks=1482024992,2420895100,968510818,557221067
 
+// Cabeza de Martillo
+//notes:starfv#7947: De las mejores ametralladoras del juego, pero si tienes ya conmemoración no merece mucho la pena.
+dimwishlist:item=211732170&perks=1482024992,2420895100,968510818,557221067
+
 
 
 
