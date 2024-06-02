@@ -14,7 +14,10 @@ dimwishlist:item=568611923&perks=3525010810,3373736292,968510818,3993379141
 
 // Tránsito extremo brilli brilli
 //notes:starfv#7947: El mejor lanzagranadas de todo el juego, ahora sí, con dobles perks es inmejorable.
-dimwishlist:item=2228325504&perks=3525010810,3301904089,332133599,968510818,3751912585,3078487919
+dimwishlist:item=2228325504&perks=3525010810,3301904089,968510818,3078487919
+dimwishlist:item=2228325504&perks=3525010810,332133599,968510818,3078487919
+dimwishlist:item=2228325504&perks=3525010810,3301904089,3751912585,3078487919
+dimwishlist:item=2228325504&perks=3525010810,332133599,3751912585,3078487919
 
 // Guillotina
 //notes:starfv#7947: Una de las mejores espadas disponibles y que muy posiblemente se convierta en la mejor durante el primer episodio de la Forma Final, gracias al artefacto. El perk de la segunda columna es un poco indiferente.
