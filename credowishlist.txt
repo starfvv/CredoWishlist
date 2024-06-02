@@ -14,8 +14,7 @@ dimwishlist:item=568611923&perks=3525010810,3373736292,968510818,3993379141
 
 // Tránsito extremo brilli brilli
 //notes:starfv#7947: El mejor lanzagranadas de todo el juego, ahora sí, con dobles perks es inmejorable.
-dimwishlist:item=2228325504&perks=3525010810,3301904089,968510818,3078487919
-dimwishlist:item=2228325504&perks=3525010810,332133599,3751912585,3078487919
+dimwishlist:item=2228325504&perks=3525010810,3301904089,332133599,968510818,3751912585,3078487919
 
 // Guillotina
 //notes:starfv#7947: Una de las mejores espadas disponibles y que muy posiblemente se convierta en la mejor durante el primer episodio de la Forma Final, gracias al artefacto. El perk de la segunda columna es un poco indiferente.
@@ -40,6 +39,10 @@ dimwishlist:item=2499720827&perks=1482024992,1087426260,3038247973,4049631843
 // La Cima
 //notes:starfv#7947: No os va a cambiar la vida, pero siempre viene bien tener un pepinazo guardado para algún bicho duro. Contra toda lógica, hay que buscar perks que reduzcan el radio de explosión.
 dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
+
+// La Cima
+//notes:starfv#7947: No os va a cambiar la vida, pero siempre viene bien tener un pepinazo guardado para algún bicho duro. Contra toda lógica, hay que buscar perks que reduzcan el radio de explosión.
+dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294
 
 
 
