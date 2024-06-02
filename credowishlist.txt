@@ -59,6 +59,9 @@ dimwishlist:item=2763843899&perks=1482024992,3230963543,3017780555,4293542123
 //notes:starfv#7947: Un cañón de mano muy divertido, algo lento de recarga y perfecto para builds con ascuas de benevolencia. Recomendable alimentador armónico (solar).
 dimwishlist:item=3757612024&perks=1482024992,3230963543,3017780555,4293542123
 
+// Cabeza de Martillo
+//notes:starfv#7947: De las mejores ametralladoras del juego, pero si tienes ya conmemoración no merece mucho la pena.
+dimwishlist:item=1896309757&perks=1482024992,2420895100,968510818,557221067
 
 
 
